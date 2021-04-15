@@ -10,8 +10,8 @@ creds.py
 *pycache*
 *.html
 *.geojson
+
 #Only files to not ignore
-#!Capstone_Project.ipynb
 !Toronto_Neighborhoods.ipynb
 !Toronto_Neighborhoods.nbconvert.ipynb
 !Geospatial_Coordinates.csv
