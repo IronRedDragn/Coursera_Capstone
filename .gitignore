@@ -1,0 +1,20 @@
+#Ignore python noteboobks and checkpoints
+*.ipynb*
+#ignore txt and csv files and json and html
+data
+*.jpg
+*.txt
+*.csv
+*.json
+creds.py
+*pycache*
+*.html
+*.geojson
+#Only files to not ignore
+#!Capstone_Project.ipynb
+!Toronto_Neighborhoods.ipynb
+!Toronto_Neighborhoods.nbconvert.ipynb
+!Geospatial_Coordinates.csv
+!Introduction_Data.ipynb
+!Capstone_Hanami-Ramen.ipynb
+!environment.yml
