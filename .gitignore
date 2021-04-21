@@ -10,10 +10,10 @@ creds.py
 *pycache*
 *.html
 *.geojson
-
+.DS_Store
 #Only files to not ignore
-!Toronto_Neighborhoods.ipynb
-!Toronto_Neighborhoods.nbconvert.ipynb
+Toronto_Neighborhoods.ipynb
+Toronto_Neighborhoods.nbconvert.ipynb
 !Geospatial_Coordinates.csv
 !Introduction_Data.ipynb
 !Capstone_Hanami-Ramen.ipynb
