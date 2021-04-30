@@ -2,6 +2,11 @@
 *.ipynb*
 #ignore txt and csv files and json and html
 data
+*.aux
+*.log
+*.out
+*.gz
+__latexindent_temp.tex
 *.jpg
 *.txt
 *.csv
