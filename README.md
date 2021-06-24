@@ -16,3 +16,6 @@ Python Libraries used:
 - folium
 - scipy.cluster.hierarchy
 - sklearn.cluster -> Agglomerative Clustering
+- googletrans -> Translator
+
+
